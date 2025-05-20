@@ -38,7 +38,7 @@ Me chamo Richard Ferreira Nunes, tenho 17 anos e sou natural de Sorocaba. Sou es
     title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Light.svg" 
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/MySQL-Light.svg" 
 />
 <img 
     align="left" 

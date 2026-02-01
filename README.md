@@ -1,12 +1,21 @@
 #  Richard Ferreira Nunes
 
-**`Estudante de DS`**
+**`Estudante de ADS`**
 
-Me chamo Richard Ferreira Nunes, tenho 17 anos e sou natural de Sorocaba. Sou estudante de Desenvolvimento de Sistemas na ETEC FERNANDO PRESTES, estou interessado em backend e aprendendo aos poucos para aprimorar minhas skills.
+Me chamo Richard Ferreira Nunes, tenho 18 anos e sou natural de Sorocaba. Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC Sorocaba, estou interessado em backend e aprendendo aos poucos para aprimorar minhas skills.
 
 ---
 
 ### Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
 
 <img 
     align="left" 
@@ -42,36 +51,14 @@ Me chamo Richard Ferreira Nunes, tenho 17 anos e sou natural de Sorocaba. Sou es
 />
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+
 
 <br/>
 <br/>
